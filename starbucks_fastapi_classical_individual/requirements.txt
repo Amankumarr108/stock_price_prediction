@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+tensorflow
+pandas
+numpy
+scikit-learn
+yfinance
+pydot
+graphviz
+matplotlib
+pymongo
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+PyJWT

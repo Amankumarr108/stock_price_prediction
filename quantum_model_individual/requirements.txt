@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+tensorflow
+pandas
+numpy
+scikit-learn
+yfinance
+pydot
+graphviz
+matplotlib
+
+# PennyLane is optional; if installed the code will use a small hybrid quantum layer
+pennylane
+
